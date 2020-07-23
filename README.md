@@ -14,6 +14,7 @@ returns:
 
 arp, live, strong
 
+-------------------------------
 Task_2:
 
 You will be given a number and you will need to return it as a string in Expanded Form.
